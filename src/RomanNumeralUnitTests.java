@@ -11,6 +11,6 @@ public class RomanNumeralUnitTests
 	@Test
 	public void test() 
 	{
-		assertEquals("MMCCXXII", number.toRoman(2222));
+		assertEquals("MMCCXXI", number.toRoman(2222));
 	}
 }
