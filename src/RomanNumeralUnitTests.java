@@ -11,6 +11,6 @@ public class RomanNumeralUnitTests
 	@Test
 	public void test() 
 	{
-		assertEquals("MDIII", number.toRoman(103));
+		assertEquals("MDIII", number.toRoman(1503));
 	}
 }
